@@ -1,2 +1,2 @@
 # hugo-theme-next
-Elegant theme for Hugo
+Elegant next theme for hugo
